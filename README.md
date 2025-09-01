@@ -1,4 +1,5 @@
-DApp de Búsqueda de Tokens con React y Wagmi
+# DApp de Búsqueda de Tokens con React y Wagmi
+
 Este proyecto es una aplicación descentralizada (DApp) construida con React y la librería Wagmi. El objetivo es crear una interfaz web que permita a los usuarios conectar su wallet, ver sus balances e interactuar con contratos inteligentes de tokens ERC-20 en la red de prueba Sepolia.
 
 
@@ -6,7 +7,7 @@ Este proyecto es una aplicación descentralizada (DApp) construida con React y l
 Este desarrollo se realizó como parte de la Diplomatura en Blockchain de la UTN.
 
 
-✨ Características
+## ✨ Características
 
 ✅ 
 Conexión de Wallet: Integración con MetaMask para conectar a la red de prueba Sepolia.
@@ -22,6 +23,7 @@ Buscador de Tokens ERC-20: Permite al usuario introducir la dirección de un con
 Lectura de Contrato: Utiliza el hook useContractReads de Wagmi para leer de forma eficiente el nombre, símbolo, decimales y el balance del usuario para un token específico.
 
 
+
 🔄 
 Manejo de Estados: Gestiona correctamente los estados de carga y error durante la consulta de datos en la blockchain.
 
@@ -29,7 +31,7 @@ Manejo de Estados: Gestiona correctamente los estados de carga y error durante l
 Botón de Refresco: Incluye una función para actualizar los datos del token manualmente.
 
 
-🛠️ Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 React: Biblioteca para construir la interfaz de usuario.
 
 Vite: Herramienta de desarrollo para un entorno rápido y moderno.
@@ -41,15 +43,15 @@ Viem: Librería de bajo nivel utilizada por Wagmi para la comunicación con Ethe
 
 TypeScript/JavaScript (JSX): Lenguaje de programación utilizado.
 
-🚀 Empezando
+## 🚀 Empezando
 Sigue estos pasos para ejecutar el proyecto en tu máquina local.
 
-Prerrequisitos
+### Prerrequisitos
 Node.js (versión 18 o superior)
 
 Un navegador web con la extensión MetaMask instalada.
 
-Instalación
+### Instalación
 Clona el repositorio en tu máquina local:
 
 Bash
@@ -73,7 +75,7 @@ Bash
 npm run dev
 Abre tu navegador y ve a la dirección http://localhost:5173 (o la que indique la terminal).
 
-🎓 Conceptos Clave de Wagmi Aplicados
+## 🎓 Conceptos Clave de Wagmi Aplicados
 Este proyecto utiliza varios hooks fundamentales de Wagmi para su funcionamiento:
 
 

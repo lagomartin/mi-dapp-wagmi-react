@@ -5,12 +5,9 @@ Este proyecto es una aplicación descentralizada (DApp) construida con React y l
 
 Este desarrollo se realizó como parte de la Diplomatura en Blockchain de la UTN.
 
-📸 Captura de Pantalla
-(Aquí puedes añadir una captura de pantalla de tu DApp funcionando)
 
 ✨ Características
 ✅ 
-
 Conexión de Wallet: Integración con MetaMask para conectar a la red de prueba Sepolia.
 
 

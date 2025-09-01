@@ -1,4 +1,5 @@
 DApp de Búsqueda de Tokens con React y Wagmi
+
 Este proyecto es una aplicación descentralizada (DApp) construida con React y la librería Wagmi. El objetivo es crear una interfaz web que permita a los usuarios conectar su wallet, ver sus balances e interactuar con contratos inteligentes de tokens ERC-20 en la red de prueba Sepolia.
 
 Este desarrollo se realizó como parte de la Diplomatura en Blockchain de la UTN.

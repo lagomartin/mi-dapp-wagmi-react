@@ -7,29 +7,25 @@ Este desarrollo se realizó como parte de la Diplomatura en Blockchain de la UTN
 
 
 ✨ Características
+
 ✅ 
 Conexión de Wallet: Integración con MetaMask para conectar a la red de prueba Sepolia.
 
 
 📊 
-
 Visualización de Cuenta: Muestra la dirección y el balance de ETH de la cuenta conectada.
 
 🔍 
-
 Buscador de Tokens ERC-20: Permite al usuario introducir la dirección de un contrato de token para ver su información.
 
 📄 
-
 Lectura de Contrato: Utiliza el hook useContractReads de Wagmi para leer de forma eficiente el nombre, símbolo, decimales y el balance del usuario para un token específico.
 
 
 🔄 
-
 Manejo de Estados: Gestiona correctamente los estados de carga y error durante la consulta de datos en la blockchain.
 
 🔃 
-
 Botón de Refresco: Incluye una función para actualizar los datos del token manualmente.
 
 
